@@ -111,7 +111,7 @@ Armazena:
 
 Integrantes do Grupo
 
-Integrante 1 – Ruan
+Integrante 1 – Ruan Miguel
 
 Responsável pela implementação do cadastro de produtos, geração automática de códigos e salvamento dos dados em arquivo.
 
